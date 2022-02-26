@@ -37,9 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django_cleanup.apps.CleanupConfig',  # 設定
-    'django_pandas',  # 設定
-    'openpyxl',
+    #'django_cleanup.apps.CleanupConfig',  # 設定
+    #'django_pandas',  # 設定
+    #'openpyxl',
     'app.apps.AppConfig',  # アプリ名
 ]
 
